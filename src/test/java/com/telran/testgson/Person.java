@@ -7,6 +7,7 @@ import lombok.*;
 @Setter
 @Getter
 @ToString
+
 public class Person {
     String name;
     int age;
